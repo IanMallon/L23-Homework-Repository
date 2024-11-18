@@ -10,3 +10,5 @@ y = np.sin(x)
 # Plotting Sine Graph
 plt.plot(x, y, color='green')
 plt.show()
+
+#This is a test
